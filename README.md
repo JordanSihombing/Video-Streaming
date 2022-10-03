@@ -8,3 +8,6 @@ Folder Django itu hasil update dari player. Sudah bisa di run. Untuk run pakai C
 
 3. Pada CMD akan ada link http, buka di browser
 ![image](https://user-images.githubusercontent.com/70830660/193611370-961634b8-1b18-46d0-b688-72c21f87081b.png)
+
+
+index.html ada di video/templates.
